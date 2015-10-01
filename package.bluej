@@ -1,0 +1,27 @@
+#BlueJ package file
+objectbench.height=76
+objectbench.width=477
+package.editor.height=68
+package.editor.width=379
+package.editor.x=34
+package.editor.y=0
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+project.charset=UTF-8
+target1.appletHeight=650
+target1.appletWidth=1000
+target1.editor.height=860
+target1.editor.width=693
+target1.editor.x=907
+target1.editor.y=0
+target1.height=50
+target1.name=CurveLine
+target1.numberAppletParameters=0
+target1.showInterface=false
+target1.type=AppletTarget
+target1.typeParameters=
+target1.width=80
+target1.x=70
+target1.y=10
