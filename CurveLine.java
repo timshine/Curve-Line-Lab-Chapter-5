@@ -10,6 +10,9 @@ import java.awt.*;
 import java.applet.*;
 
 public class CurveLine extends Applet{
+    public void init(){
+        setSize(1000,650);
+    }
     
     public void paint(Graphics g)
         {
